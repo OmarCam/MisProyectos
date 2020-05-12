@@ -1,2 +1,4 @@
 # MisProyectos
- Miselanea de proyectos
+
+Miselanea de proyectos
+Repositorio creado para ideas de proyectos
